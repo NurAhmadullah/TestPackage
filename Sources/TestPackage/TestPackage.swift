@@ -6,7 +6,7 @@
 
 import Foundation
 
-public class MathOperation {
+open class MathOperation {
     
     public func add(_ a: Int, _ b: Int) -> Int {
         return a + b
